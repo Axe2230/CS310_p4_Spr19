@@ -36,16 +36,3 @@ There are **5** tasks in this assignment. It is suggested that you implement the
 - Task 5: Runtime Write-up (5%)
 
 See the [Examples Page](EXAMPLES.md "") for what the simulator should be able to do when you are done, and then see the [Task Details Page](TASKS.md "") for a walk-through of each specific task.
-
-Need a schedule?
-- You've got 3.5 weeks.
-- You have other classes with final exams/projects.
-- Assume you want to spend the last week doing the EC and getting additional help.
-- Keeping those things in mind, fill in the following:
-  - Week 0 (4/12-4/14): _______________________________ (first weekend)
-  - Week 1 (4/15-4/21): _______________________________
-  - Week 2 (4/22-4/28): _______________________________
-  - Week 3 (4/29-5/05): _______________________________ (extra credit for early submission...)
-
-## Rules and Grading
-As with all projects in CS310, we have some rules (see [Rules Page](RULES.md "")) and a grading rubric (see [Rubric Page](GRADING.md "")).
