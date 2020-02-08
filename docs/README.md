@@ -1,6 +1,6 @@
 # Graph Algorithm Simulator
 
-CS 310 Programming Assignment 4
+CS 310 Programming Assignment
 
 <img src="animated.gif" width="400px" />
 
